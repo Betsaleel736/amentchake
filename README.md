@@ -17,7 +17,7 @@
 [![Status](https://img.shields.io/badge/Open_to-Internships_&_Remote_Work-success?style=for-the-badge)](#-lets-work-together)
 
 
-🌐 **Live portfolio:** [Betsaleel736.github.io](https://Betsaleel736.github.io)
+🌐 **Live portfolio:** [https://claude.ai/artifact/5RFhq3FRVJgon4X3F1U77G](https://claude.ai/artifact/5RFhq3FRVJgon4X3F1U77G)
 
 </div>
 
