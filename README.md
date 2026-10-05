@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="assets/header (2).svg" alt="Amen Tchake animated banner" width="100%" />
+<img src="header (2).svg" alt="Amen Tchake animated banner" width="100%" />
 
 
 <!-- 📸 PHOTO: replace the URL below with your photo.
