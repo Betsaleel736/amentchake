@@ -17,7 +17,7 @@
 [![Status](https://img.shields.io/badge/Open_to-Internships_&_Remote_Work-success?style=for-the-badge)](#-lets-work-together)
 
 
-🌐 **Live portfolio:** [YOUR_USERNAME.github.io](https://YOUR_USERNAME.github.io)
+🌐 **Live portfolio:** [Betsaleel736.github.io](https://Betsaleel736.github.io)
 
 </div>
 
