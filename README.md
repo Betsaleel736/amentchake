@@ -1,363 +1,158 @@
-# Amen Tchake
+<div align="center">
 
-### Artificial Intelligence Student · Computer Vision Developer · Software Engineer
+<!-- 📸 PHOTO: replace the URL below with your photo.
+     Tip: upload your picture to this repo (e.g. /assets/photo.jpg) and use: assets/photo.jpg
+     Ideal: square image (400x400), clean background, professional look. -->
+<img src="assets/photo.jpg" alt="Amen Tchake" width="180" height="180" style="border-radius: 50%;" />
 
-<p align="left">
-  <a href="YOUR_LINKEDIN_URL">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="mailto:amentchake1@gmail.com">
-    <img src="https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white" />
-  </a>
-  <img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&style=flat-square&color=blue" />
-</p>
+# Amen O.T.E.B Tchake
 
-> **Building intelligent systems at the intersection of Artificial Intelligence, Computer Vision, and Software Engineering.**
+### AI Student · Computer Vision · Front-End Developer · Visual Creator
 
-I'm **Amen Tchake**, a B.Sc. Artificial Intelligence student based in **Accra, Ghana**, with a growing focus on **Computer Vision, intelligent applications, and practical AI systems**.
+*Building intelligent systems that see, and interfaces people enjoy using.*
 
-I enjoy taking an idea from **concept → implementation → evaluation → improvement**, with a particular interest in technologies that allow computers to understand and interact with the real world.
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/amen-tchake-a61643289)
+[![Email](https://img.shields.io/badge/Email-Contact_me-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:amentchake1@gmail.com)
+[![Location](https://img.shields.io/badge/Based_in-Accra,_Ghana-006B3F?style=for-the-badge&logo=googlemaps&logoColor=white)](#)
+[![Status](https://img.shields.io/badge/Open_to-Internships_&_Remote_Work-success?style=for-the-badge)](#-lets-work-together)
 
-My background combines **AI, programming, web development, computer vision, and visual communication** — giving me both a technical and product-oriented perspective when building digital solutions.
+</div>
 
 ---
 
-## 🧭 About Me
+## 👋 About Me
 
-```text
-                    AMEN TCHAKE
-                         │
-          ┌──────────────┼──────────────┐
-          │              │              │
-     Artificial       Computer       Software
-   Intelligence        Vision        Development
-          │              │              │
-          └──────────────┼──────────────┘
-                         │
-                  Real-World Systems
-```
+I'm a **BSc Artificial Intelligence student at Academic City University College (Accra, Ghana)** with a hands-on background in **computer vision**, **front-end development**, and **visual design**.
 
-🎓 **B.Sc. Artificial Intelligence** — Academic City University College
-📍 **Accra, Ghana**
-🔬 **Current Focus:** Computer Vision & Intelligent Systems
-💻 **Primary Language:** Python
-🌐 **Additional Experience:** Web Development
-🎨 **Creative Background:** Graphic Design & Video Editing
-🌍 **Open to:** Internships, collaborations, research opportunities, and challenging technical projects
+What makes my profile different is the mix: I can train and validate a face-recognition pipeline, then design and ship the interface around it. I care about **accuracy, attention to detail, and clean user experience**, and I'm comfortable working **independently and remotely** with distributed teams.
+
+- 🎓 Studying AI since September 2025
+- 🔬 Currently building: a real-time face recognition attendance system
+- 🌍 Based in Accra, Ghana · Previously in Cotonou, Benin · Fluent in **English & French**
+- 🎯 Looking for: internships, junior roles, and remote opportunities in **AI / Computer Vision / Web Development**
 
 ---
 
-# ⚡ Technical Profile
+## 🚀 Featured Projects
 
-### Artificial Intelligence & Computer Vision
+### 🧠 Real-Time Face Recognition Attendance System
+> **Computer Vision · Python · Ongoing since April 2026**
 
-* Computer Vision
-* Image Processing
-* Face Recognition
-* Visual Data Analysis
-* Real-Time Recognition Systems
-* Accuracy Evaluation & Error Analysis
+A real-time attendance system that identifies people through a camera feed and logs their presence automatically, replacing manual roll calls.
 
-### Programming
+- Detects and matches faces in real time using **OpenCV** and the **Face Recognition** library
+- Stores and manages attendance records with **Supabase**
+- Includes a structured evaluation logic to **assess output accuracy**, identify misrecognitions, and correct them
+- Focus on **validating visual data** for reliable identity matching
 
-```text
-Python       ████████████████████
-C            ███████████████
-JavaScript   █████████████
-PHP          ███████████
-```
+**Stack:** `Python` `OpenCV` `Face Recognition` `Supabase`
 
-### Web Development
-
-```text
-HTML
-CSS
-JavaScript
-PHP
-Supabase
-```
-
-### Tools & Creative Technologies
-
-```text
-OpenCV
-Face Recognition
-Adobe Photoshop
-Canva
-CapCut
-Filmora
-```
-
-My technical background includes Python, C, OpenCV, Face Recognition, HTML, CSS, JavaScript, PHP, and Supabase.
+🔗 [View repository](https://github.com/YOUR_USERNAME/face-recognition-attendance) · 🎥 [Demo](#) · 📄 [Documentation](#)
 
 ---
 
-# 🚀 Featured Projects
+### 🌐 Web Development Work: Three Websites (Front-End)
+> **HTML · CSS · JavaScript · PHP · JSCOM Benin, 2024**
 
-## 01 — Real-Time Face Recognition Attendance System
+During my internship at JSCOM Benin, I built the front end of **three websites**: a **music** site, an **e-commerce** store, and a **corporate** website.
 
-### `Computer Vision · Python · OpenCV · Face Recognition · Supabase`
+- Translated client requirements into functional, user-friendly pages
+- Applied core web design principles (layout, hierarchy, usability)
+- Collaborated with a team in a real project workflow
 
-> **An intelligent attendance system designed to automate identity recognition and attendance tracking in real time.**
+**Stack:** `HTML` `CSS` `JavaScript` `PHP`
 
-This is one of my main ongoing AI projects and represents my transition from programming fundamentals toward **real-world intelligent systems**.
-
-### What I worked on
-
-* Real-time facial recognition
-* Image-based identity matching
-* Attendance tracking
-* Supabase integration
-* Visual data interpretation
-* Recognition validation
-* Error detection and correction
-
-A major part of the project involves evaluating recognition results and improving the reliability of the system rather than simply implementing recognition functionality.
-
-**Current status:** `In Development`
-
-**Repository:**
-→ [View the project](YOUR_FACE_RECOGNITION_REPOSITORY_URL)
+🔗 [View repository](https://github.com/YOUR_USERNAME/web-projects) · 🌍 [Live demo](#)
 
 ---
 
-## 02 — Web Development Portfolio
+### 🎬 Video Editing Series: 20 Videos
+> **CapCut · Filmora · Ongoing since August 2024**
 
-### `HTML · CSS · JavaScript · PHP`
+Edited a series of **20 videos**, reviewing visual and audio content for **quality and consistency** across the whole series.
 
-During my web development internship at **JSCOM Benin**, I contributed to the development of three websites across different use cases:
+**Tools:** `CapCut` `Filmora`
 
-* 🎵 Music platform
-* 🛒 E-commerce platform
-* 🏢 Corporate website
-
-The experience strengthened my ability to transform requirements into functional interfaces while working within a team environment.
-
-**Repository:**
-→ [Explore the web projects](YOUR_WEB_PROJECTS_REPOSITORY_URL)
+🔗 [Watch the series](#)
 
 ---
 
-## 03 — Video Editing Series
+### 🎨 Graphic Design Portfolio
+> **Adobe Photoshop · Canva · 2023**
 
-### `CapCut · Filmora · Visual Storytelling`
+Posters, promotional visuals, and communication materials: image editing, layout design, and color selection with a strong focus on visual detail.
 
-A creative project involving the editing of **20 videos**, with an emphasis on visual and audio consistency, content quality, and presentation.
+**Tools:** `Photoshop` `Canva`
 
-Although this project is outside my core AI specialization, it reflects an important part of my profile: the ability to combine **technical thinking with visual communication**.
-
-**Project:**
-→ [View the project](YOUR_VIDEO_PROJECT_REPOSITORY_URL)
+🔗 [See the designs](#)
 
 ---
 
-# 🧪 Engineering Mindset
+## 🛠️ Tech Stack
 
-I approach projects through a simple engineering cycle:
+<div align="center">
 
-```text
-        PROBLEM
-           │
-           ▼
-      UNDERSTAND
-           │
-           ▼
-       DESIGN
-           │
-           ▼
-       IMPLEMENT
-           │
-           ▼
-        TEST
-           │
-           ▼
-       EVALUATE
-           │
-           ▼
-        IMPROVE
-           │
-           └──────────────► Repeat
-```
+| Category | Technologies |
+|---|---|
+| **Languages** | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![C](https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) ![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white) |
+| **Web** | ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white) |
+| **AI / Computer Vision** | ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white) Face Recognition |
+| **Backend / Database** | ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white) |
+| **Design & Media** | ![Photoshop](https://img.shields.io/badge/Photoshop-31A8FF?style=flat-square&logo=adobephotoshop&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-00C4CC?style=flat-square&logo=canva&logoColor=white) CapCut · Filmora |
 
-I don't want my projects to simply **"work."**
-
-I want to understand:
-
-* Why does the system work?
-* Where does it fail?
-* How can its performance be evaluated?
-* What can be improved?
-* How can the solution become more useful in a real-world environment?
-
-This mindset is particularly important to me as I move deeper into **Artificial Intelligence and Computer Vision**.
+</div>
 
 ---
 
-# 🔬 Current Direction
+## 💼 Experience
 
-I'm currently building toward a career focused on:
+**Web Development Intern (Front-End)** · JSCOM Benin · *Cotonou, Benin · Jun – Aug 2024*
+Built the front end of 3 websites (music, e-commerce, corporate) using HTML, CSS, JavaScript and PHP, working with a team to turn requirements into functional pages.
 
-### Artificial Intelligence
-
-Developing stronger foundations in intelligent systems, programming, and applied AI.
-
-### Computer Vision
-
-Exploring how machines can interpret images and visual information.
-
-### Intelligent Applications
-
-Turning AI concepts into practical software capable of solving real problems.
-
-### Software Engineering
-
-Improving my ability to design, implement, test, and maintain reliable applications.
+**Graphic Design Intern** · *Cotonou, Benin · Jul – Aug 2023*
+Designed posters, promotional visuals and communication materials in Adobe Photoshop, with a focus on layout, color and visual accuracy.
 
 ---
 
-# 💼 Experience
+## 🎓 Education & Certifications
 
-## JSCOM Benin — Web Development Intern
-
-**Cotonou, Benin · June 2024 — August 2024**
-
-Worked on front-end development for three websites using:
-
-`HTML` · `CSS` · `JavaScript` · `PHP`
-
-Key contributions included:
-
-* Translating requirements into functional web pages
-* Building user-oriented interfaces
-* Applying fundamental web design principles
-* Collaborating with a development team
-
-This experience gave me my first practical exposure to professional software development workflows.
+- **BSc in Artificial Intelligence**: Academic City University College, Accra, Ghana *(Sept 2025 – Present)*
+- **Science Track**: Les Cours GAMA, Cotonou, Benin *(2022 – 2023, GPA 16/20)*
+- 📜 **Advanced English Certificate**
 
 ---
 
-## Graphic Design Intern
+## 💡 What I Bring
 
-**Cotonou, Benin · July 2023 — August 2023**
-
-Worked on:
-
-* Promotional materials
-* Posters
-* Image editing
-* Layout design
-* Color selection
-
-This experience strengthened my attention to **visual detail, accuracy, and communication through design**.
+- **Precision:** attention to detail and accuracy, from validating image data to pixel-level design
+- **Analytical mindset:** quantitative analysis and structured evaluation of system outputs
+- **Autonomy:** self-directed, reliable, and experienced in asynchronous / remote collaboration
+- **Communication:** strong written English, public speaking, bilingual English / French
+- **Creative + technical:** the rare ability to build the model *and* the interface *and* the visuals
 
 ---
 
-# 🎓 Education
+## 📊 GitHub Stats
 
-### Academic City University College
+<div align="center">
 
-**B.Sc. Artificial Intelligence**
+![Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true)
 
-📍 Accra, Ghana
-📅 September 2025 — Present
-
-Currently developing a strong foundation in Artificial Intelligence while building practical projects around software and computer vision.
+</div>
 
 ---
 
-### Les Cours GAMA
+## 🤝 Let's Work Together
 
-**Science Track**
+I'm open to **internships, junior positions, freelance and remote opportunities** in AI, computer vision and web development.
 
-📍 Cotonou, Benin
-📅 2022 — 2023
+📫 **Email:** [amentchake1@gmail.com](mailto:amentchake1@gmail.com)
+💼 **LinkedIn:** [linkedin.com/in/amen-tchake-a61643289](https://linkedin.com/in/amen-tchake-a61643289)
+📍 **Location:** Haatso, Accra, Ghana (open to remote)
 
-**GPA: 16/20**
+<div align="center">
 
----
+⭐ *If you like my work, feel free to star a repository, and thanks for visiting!*
 
-# 📚 Certifications
-
-**Advanced English Certificate**
-
-Strong written English and communication skills, complemented by experience in public speaking and collaborative environments.
-
----
-
-# 🌱 What I'm Building Toward
-
-My long-term objective is to become a strong **AI engineer capable of designing and deploying practical intelligent systems**.
-
-I'm particularly interested in the progression:
-
-```text
-Programming
-     ↓
-Software Engineering
-     ↓
-Data & Algorithms
-     ↓
-Machine Learning
-     ↓
-Computer Vision
-     ↓
-Intelligent Systems
-     ↓
-Real-World AI Products
-```
-
-I am deliberately building each layer rather than trying to skip directly to the end.
-
----
-
-# 📊 GitHub Activity
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&hide_border=true&count_private=true" height="165"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&hide_border=true" height="165"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&hide_border=true" />
-</p>
-
----
-
-# 🤝 Let's Build Something Meaningful
-
-I'm interested in connecting with:
-
-* AI engineers
-* Machine Learning practitioners
-* Computer Vision developers
-* Software engineers
-* Researchers
-* Students building ambitious projects
-* Companies looking for motivated AI talent
-
-If you're working on something interesting, I'd be happy to connect.
-
-### 📬 Contact
-
-**Email:** [amentchake1@gmail.com](mailto:amentchake1@gmail.com)
-
-**LinkedIn:** [Connect with me](YOUR_LINKEDIN_URL)
-
-**GitHub:** [Explore my work](https://github.com/YOUR_GITHUB_USERNAME)
-
----
-
-# 📄 Resume
-
-**[View / Download my Resume →](YOUR_RESUME_LINK)**
-
----
-
-<p align="center">
-  <b>Build with purpose. Learn continuously. Improve relentlessly.</b>
-</p>
-
-<p align="center">
-  <sub>Artificial Intelligence · Computer Vision · Software Engineering</sub>
-</p>
-
+</div>
