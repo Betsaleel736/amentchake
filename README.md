@@ -1,13 +1,16 @@
 <div align="center">
 
+<img src="assets/header.svg" alt="Amen Tchake animated banner" width="100%" />
+
+
 <!-- 📸 PHOTO: replace the URL below with your photo.
      Tip: upload your picture to this repo (e.g. /assets/photo.jpg) and use: assets/photo.jpg
      Ideal: square image (400x400), clean background, professional look. -->
-<img src="header (1).svg" alt="Amen Tchake" width="500" height="450" style="border-radius: 50%;" />
+<img src="assets/photo.jpg" alt="Amen Tchake" width="180" height="180" style="border-radius: 50%;" />
 
 # Amen O.T.E.B Tchake
 
-### AI Student · Computer Vision · Front-End Developer · Visual Creator
+<img src="https://readme-typing-svg.demolab.com?font=Roboto&weight=600&size=19&duration=4500&pause=2000&color=2447E8&center=true&vCenter=true&repeat=true&width=900&height=40&lines=Aspiring+Machine+Learning+Engineer;Python+Developer;AI+%26+Computer+Vision+Enthusiast" alt="Typing animation" />
 
 *Building intelligent systems that see, and interfaces people enjoy using.*
 
@@ -16,7 +19,7 @@
 [![Status](https://img.shields.io/badge/Open_to-Internships_&_Remote_Work-success?style=for-the-badge)](#-lets-work-together)
 
 
-🌐 **Live portfolio:** [https://claude.ai/artifact/5RFhq3FRVJgon4X3F1U77G](https://claude.ai/artifact/5RFhq3FRVJgon4X3F1U77G)
+🌐 **Live portfolio:** [YOUR_USERNAME.github.io](https://YOUR_USERNAME.github.io)
 
 </div>
 
@@ -24,7 +27,7 @@
 
 ## 👋 About Me
 
-I'm a **BSc Artificial Intelligence student at Academic City University College (Accra, Ghana)** with a hands-on background in **computer vision**, **front-end development**, and **visual design**.
+I'm an **aspiring Machine Learning Engineer and Python developer**, currently a **BSc Artificial Intelligence student at Academic City University College (Accra, Ghana)** with a hands-on background in **computer vision**, **front-end development**, and **visual design**.
 
 What makes my profile different is the mix: I can train and validate a face-recognition pipeline, then design and ship the interface around it. I care about **accuracy, attention to detail, and clean user experience**, and I'm comfortable working **independently and remotely** with distributed teams.
 
@@ -138,7 +141,7 @@ Designed posters, promotional visuals and communication materials in Adobe Photo
 
 <div align="center">
 
-![Stats](https://github.com/Betsaleel736/business-card.git)
+![Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true)
 
 </div>
@@ -158,3 +161,5 @@ I'm open to **internships, junior positions, freelance and remote opportunities*
 ⭐ *If you like my work, feel free to star a repository, and thanks for visiting!*
 
 </div>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,12,20&height=110&section=footer" width="100%" alt="" />
