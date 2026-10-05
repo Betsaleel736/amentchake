@@ -16,6 +16,9 @@
 [![Location](https://img.shields.io/badge/Based_in-Accra,_Ghana-006B3F?style=for-the-badge&logo=googlemaps&logoColor=white)](#)
 [![Status](https://img.shields.io/badge/Open_to-Internships_&_Remote_Work-success?style=for-the-badge)](#-lets-work-together)
 
+
+🌐 **Live portfolio:** [YOUR_USERNAME.github.io](https://YOUR_USERNAME.github.io)
+
 </div>
 
 ---
