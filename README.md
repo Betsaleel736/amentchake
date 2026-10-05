@@ -6,7 +6,14 @@
 <!-- 📸 PHOTO: replace the URL below with your photo.
      Tip: upload your picture to this repo (e.g. /assets/photo.jpg) and use: assets/photo.jpg
      Ideal: square image (400x400), clean background, professional look. -->
-<img src="David J_ Malan.jpg" alt="" width="180" height="180" style="border-radius: 50%;" />
+<img 
+    src="David J_ Malan.jpg" 
+    alt="David J. Malan" 
+    width="300" 
+    height="300" 
+    style="border-radius: 50%; object-fit: cover;"
+/>
+
 
 # Amen O.T.E.B Tchake
 
