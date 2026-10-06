@@ -165,7 +165,7 @@ I'm open to **internships, junior positions, freelance and remote opportunities*
 
 <div align="center">
 
-⭐ *If you like my work, feel free to star a repository, and thanks for visiting!*
+⭐ *I believe the future belongs to those who can turn intelligence into action. I’m building toward that future, one system at a time.*
 
 </div>
 
