@@ -22,14 +22,7 @@
 *Turning complex problems into intelligent solutions through machine learning, AI, and engineering.*
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/amen-tchake-a61643289)
-<p align="center">
-  <a href="mailto:amentchake1@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Contact%20Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
-  </a>
-  <a href="https://linkedin.com/in/amen-tchake-a61643289">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
-  </a>
-</p>
+[![Email](https://img.shields.io/badge/Email-Contact_me-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:amentchake1@gmail.com?subject=Hello%20Amen)
 [![Status](https://img.shields.io/badge/Open_to-Internships_&_Remote_Work-success?style=for-the-badge)](#-lets-work-together)
 
 
