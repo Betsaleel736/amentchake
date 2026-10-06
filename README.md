@@ -74,7 +74,7 @@ During my internship at JSCOM Benin, I built the front end of **three websites**
 
 **Stack:** `HTML` `CSS` `JavaScript` `PHP`
 
-🔗 [View repository](https://github.com/YOUR_USERNAME/web-projects) · 🌍 [Live demo](#)
+🔗 [View repository](https://github.com/Betsaleel736/business-card.git) · 🌍 [Live demo](#)
 
 ---
 
