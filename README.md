@@ -19,7 +19,7 @@
 
 <img src="https://readme-typing-svg.demolab.com?font=Roboto&weight=600&size=19&duration=4500&pause=2000&color=16A34A&center=true&vCenter=true&repeat=true&width=900&height=40&lines=Aspiring+Machine+Learning+Engineer;Python+Developer;AI+%26+Computer+Vision+Enthusiast" alt="Typing animation" />
 
-*Building intelligent systems that see, and interfaces people enjoy using.*
+*Turning complex problems into intelligent solutions through machine learning, AI, and engineering.*
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/amen-tchake-a61643289)
 [![Email](https://img.shields.io/badge/Email-Contact_me-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:amentchake1@gmail.com)
