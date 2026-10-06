@@ -26,7 +26,7 @@
 [![Status](https://img.shields.io/badge/Open_to-Internships_&_Remote_Work-success?style=for-the-badge)](#-lets-work-together)
 
 
-🌐 **Live portfolio:** [YOUR_USERNAME.github.io](portf.html)
+🌐 **Live portfolio:** [https://claude.ai/artifact/5RFhq3FRVJgon4X3F1U77G](portf.html)
 
 </div>
 
