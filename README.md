@@ -26,7 +26,7 @@
 [![Status](https://img.shields.io/badge/Open_to-Internships_&_Remote_Work-success?style=for-the-badge)](#-lets-work-together)
 
 
-🌐 **Live portfolio:** [https://claude.ai/artifact/5RFhq3FRVJgon4X3F1U77G]
+🌐 **Live portfolio:** [https://magenta-shortbread-a29650.netlify.app]
 
 </div>
 
