@@ -7,7 +7,7 @@
      Tip: upload your picture to this repo (e.g. /assets/photo.jpg) and use: assets/photo.jpg
      Ideal: square image (400x400), clean background, professional look. -->
 <img 
-    src="david-malan.jpg.jpg" 
+    src="professional_black_turtleneck_portrait.jpg" 
     alt="Amen Tchake Picture" 
     width="300" 
     height="300" 
