@@ -7,7 +7,7 @@
      Tip: upload your picture to this repo (e.g. /assets/photo.jpg) and use: assets/photo.jpg
      Ideal: square image (400x400), clean background, professional look. -->
 <img 
-    src="cs50.jpg" 
+    src="762b103e-4b22-49e7-9bb8-53eeb9096d7b.jpg" 
     alt="David J. Malan" 
     width="300" 
     height="300" 
